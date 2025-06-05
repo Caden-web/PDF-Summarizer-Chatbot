@@ -6,7 +6,7 @@ This Python program extracts text from a PDF file, summarizes its contents using
 
 ## 🚀 Features
 
-- 📄 Extracts and processes text from a PDF
+- 📄 Extracts and processes text from a PDF 
 - 📝 Summarizes the PDF into a single-paragraph overview
 - 💬 Interactive chatbot that answers user questions based on the summary
 
